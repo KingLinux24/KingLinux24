@@ -54,29 +54,20 @@ class IsraelDavid:
 
 | Project | Description | Stack | MITRE |
 |---------|-------------|-------|-------|
-| [🔍 AI-Phishing-Detector](https://github.com/KingLinux24) | ML model that classifies phishing emails with NLP | Python, Transformers, FastAPI | T1566 |
-| [💉 LLM-Prompt-Injection-Scanner](https://github.com/KingLinux24) | Detects prompt injection and jailbreak attempts in LLM inputs | Python, LangChain, Ollama | T1059 |
-| [🦠 Malware-Classifier-ML](https://github.com/KingLinux24) | Random forest + CNN classifier for PE malware samples | Python, scikit-learn, YARA | T1204 |
-| [🤖 Autonomous-Cyber-Defense-Agent](https://github.com/KingLinux24) | Multi-agent system that triages SIEM alerts autonomously | CrewAI, Ollama, Wazuh, FastAPI | Multiple |
+| [🔍 AI-Phishing-Detector](https://github.com/KingLinux24/ai-phishing-email-detector) | ML model that classifies phishing emails with NLP | Python, Transformers, FastAPI | T1566 |
+| [💉 LLM-Prompt-Injection-Scanner]([https://github.com/KingLinux24)](https://github.com/KingLinux24/LLM-Based-Security-Alert-Explainer) | Detects prompt injection and jailbreak attempts in LLM inputs | Python, LangChain, Ollama | T1059 |
+| [🦠 Malware-Classifier-ML]([https://github.com/KingLinux24](https://github.com/KingLinux24/ml-malware-classifier)) | Random forest + CNN classifier for PE malware samples | Python, scikit-learn, YARA | T1204 |
+| [🤖 Autonomous-Cyber-Defense-Agent]([https://github.com/KingLinux24](https://github.com/KingLinux24/cyber-defense-agent)) | Multi-agent system that triages SIEM alerts autonomously | CrewAI, Ollama, Wazuh, FastAPI | Multiple |
 | [🔐 LLM-Guardrails](https://github.com/KingLinux24) | Input/output guardrails and rate-limiting for LLM APIs | Python, FastAPI, Redis | T1190 |
 
 ### 🛡️ SOC & Detection Engineering
 
 | Project | Description | Stack | MITRE |
 |---------|-------------|-------|-------|
-| [🏗️ SOC-Lab-Wazuh](https://github.com/KingLinux24) | Full open-source SOC lab with Wazuh SIEM + TheHive + MISP | Docker, Wazuh, TheHive, MISP | Multiple |
-| [📐 Detection-Engineering](https://github.com/KingLinux24) | Production-ready detection rules with FP tuning and CI/CD | Sigma, Splunk, KQL, Python | 80+ TTPs |
-| [📋 Sigma-Rules](https://github.com/KingLinux24) | Custom Sigma rules for enterprise threat scenarios | Sigma, Python, pySigma | Multiple |
-| [🗺️ MITRE-ATTACK-Mapping](https://github.com/KingLinux24) | ATT&CK Navigator layers for common adversary profiles | Python, ATT&CK Navigator | Full matrix |
-| [📚 Incident-Response-Playbooks](https://github.com/KingLinux24) | Documented IR playbooks for ransomware, BEC, insider threats | Markdown, Python automation | Multiple |
+| [🏗️ SOC-Lab-Wazuh]([https://github.com/KingLinux24](https://github.com/KingLinux24/Security-Engineering-SIEM-Detection-Lab-Wazuh-Sysmon-Atomic-Red-Team-)) | Full open-source SOC lab with Wazuh SIEM + TheHive + MISP | Docker, Wazuh, TheHive, MISP | Multiple |
+| [📐 Detection-Engineering]([https://github.com/KingLinux24](https://github.com/KingLinux24/Threat-Hunting-Incident-Response-with-Splunk-Boss-of-the-SOC-v1-)) | Production-ready detection rules with FP tuning and CI/CD | Sigma, Splunk, KQL, Python | 80+ TTPs |
 
-### ⚙️ Backend AI
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🚀 FastAPI-LLM-Backend](https://github.com/KingLinux24) | Production FastAPI backend for LLM inference with auth and rate limiting | FastAPI, Docker, Redis |
-| [📦 RAG-API](https://github.com/KingLinux24) | Retrieval-augmented generation API with vector search | FastAPI, ChromaDB, Ollama |
-| [🔑 Authentication-for-LLMs](https://github.com/KingLinux24) | JWT + API key auth system built specifically for LLM services | FastAPI, PostgreSQL, JWT |
 
 ---
 
