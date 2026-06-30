@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="2087" height="496" alt="Gemini_Generated_Image_yqh0isyqh0isyqh0" src="https://github.com/user-attachments/assets/65546f0c-83b7-46c9-9cbb-cfd539a504a9" />
 
+<img src="https://github.com/user-attachments/assets/65546f0c-83b7-46c9-9cbb-cfd539a504a9" width="100%" alt="Israel David - AI Security Engineer"/>
 
+### Israel David
+**AI Security Engineer · Backend AI · SOC & Detection Engineering**
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Secure+AI+Systems+%F0%9F%A4%96%F0%9F%94%92;AI+Security+%2B+SOC+%2B+Backend+AI+%2B+Autonomous+Defense;LLM+Security+%7C+Detection+Engineering+%7C+Threat+Hunting;Turning+Alerts+into+Intelligence+%E2%9A%A1)](https://git.io/typing-svg)
 
